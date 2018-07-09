@@ -1,4 +1,4 @@
-### Public encryption keys
+# Public encryption keys
 
 These are the public keys to use to encrypt files to be shared with Einar Ólafsson (einsiol@gmail.com)
 

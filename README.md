@@ -1,5 +1,9 @@
-# GPG-public-key
-This is the GPG public key for Einar Ólafsson
+### Public encryption keys
+
+These are the public keys to use to encrypt files to be shared with Einar Ólafsson (einsiol@gmail.com)
+
+### GPG public key
+
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----

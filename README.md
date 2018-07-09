@@ -40,4 +40,4 @@ wgVB7bReovA+67d7LDNJkHRv2tUiJeGU8WZhUfhOf2lV0WxN2hnXZV/g
 
 ### SSH public key
 
-Comming soon.
+Coming soon.

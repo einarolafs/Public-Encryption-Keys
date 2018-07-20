@@ -1,6 +1,6 @@
 # Public encryption keys
 
-These are the public keys to use to encrypt files to be shared with Einar Ólafsson (einsiol@gmail.com)
+These are the public keys to use to encrypt files, verify or secure connections with Einar Ólafsson (einsiol@gmail.com)
 
 ### GPG public key
 

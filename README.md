@@ -2,7 +2,7 @@
 
 These are the public keys to use to encrypt files, verify or secure connections with Einar Ólafsson (einsiol@gmail.com)
 
-### GPG public key
+### [GPG public key](https://raw.githubusercontent.com/einsiol/Public-Encryption-Keys/master/gpg-public-key.asc)
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
@@ -37,7 +37,7 @@ wgVB7bReovA+67d7LDNJkHRv2tUiJeGU8WZhUfhOf2lV0WxN2hnXZV/g
 -----END PGP PUBLIC KEY BLOCK-----
 ```
 
-### SSH public key
+### [SSH public key](https://raw.githubusercontent.com/einsiol/Public-Encryption-Keys/master/ida_rsa.pub)
 
 ```
 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQCuiP/S72NZRhiLWd4VmG+XbVwqiukZa6pEc2FhQ1SlnYkPrSmWQRFt8AN5N+5CCu0MyO4bf7mFrTnUxSdUamu2HhZXY+T+0TfDIdVGnQAqtM95bctQ3kLpx3Ud3gcdba0k6GSH+XCM1tsh5be+QWX8rs4n1KG6tbXKTrBdNjfXt2IN9lQeZERj/6pyCdiKgnw0UoVoRUaVk0popZc1BenB7ml3oCxYzmZLamVmPm8+N8C6EseVFNGwIiy5Yomigswi7+rmE7kI1uzlIMwuxmyE90aUzt44F2/9BCSYxGx/97oMRxdeWWAWNOmXh4GmJPRjmealVkePNjISRa0akcCt2R8ZxQRnhjGY2jXdCSKDuyKIHRnELsXw9OGe/HptYCIM2s4k3hs3B1fB/3JebOWslg1AyX1a0DOjdPbN2bprb6OaanD+7dRUPZ1sWvedrCEqiagWhfN/nywR2wEIYVREZ2MT/ofZPO08jTF8VKqzex2r0AYALuAsDZzBS6esmaE5sC27M/mibh1lp3gIP/+ISEau0St6epJRoxy52VNrTpMHWvbLhET9MyFdDbJMCYjYbflZusK3BNUONrPn/9uKQuwKKuALQ5R+NoJKS+pB0Wv67RhvxTGkUKr8oJzCjjIzLb55QK+9+rYbU873hMlhiBbv8ZHTOHIhbIRiObSkNQ== einsiol@gmail.com

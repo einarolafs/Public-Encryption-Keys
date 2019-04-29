@@ -2,7 +2,7 @@
 
 These are the public keys to use to encrypt files, verify or secure connections with Einar Ólafsson (einsiol@gmail.com)
 
-### [GPG public key](https://raw.githubusercontent.com/einsiol/Public-Encryption-Keys/master/gpg-public-key.asc)
+### [PGP public key](https://raw.githubusercontent.com/einsiol/Public-Encryption-Keys/master/gpg-public-key.asc)
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
